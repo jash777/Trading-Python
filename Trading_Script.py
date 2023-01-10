@@ -2,8 +2,8 @@ import requests
 import json
 
 # Replace YOUR_API_KEY and YOUR_API_SECRET with your own Binance API key and secret
-API_KEY = 'RJYSdgBAWa1bAXxdyfqjY8KN6kTlL3M47WRPp9Yd8Kml50OJFmbuJrjEBPBbOoMR'
-API_SECRET = 'epb75jq5P09n41PUMBmUR99cK1M9oLZmLMoILWJ6XmdUTO3dGIqxc7L9c5zB2LTc'
+API_KEY = '*******************************'
+API_SECRET = '******************************'
 
 # Set up the request to the Binance API
 url = 'https://api.binance.com/api/v3/klines'
